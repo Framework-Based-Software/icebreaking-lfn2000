@@ -13,5 +13,5 @@ Apache Spark Apache Hadoop Spring boot
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile https://github.com/Framework-Based-Software/icebreaking-lfn2000/blob/main/README.md
+You can view my personalized GitHub profile [https://github.com/Framework-Based-Software/icebreaking-lfn2000/blob/main/README.md](https://github.com/lfn2000)
 
